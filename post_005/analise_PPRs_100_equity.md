@@ -1,3 +1,11 @@
+Fartos de ouvir que os serviços profissionais são algo apenas para milionários, a Future Proof lançou um serviço de apoio à literacia financeira e suporte personalizado na criação de planos de investimento.
+
+Financial Coaching
+
+Como complemento a essas sessões, temos escrito vários artigos. Este é um deles.
+
+------------------------------------------------------------------------------------------------------
+
 Esta semana irei começar a fazer a análise a alguns PPRs, uns porque são "famosos" na comunidade, outros porque são mesmo análises a partilhar com clientes.
 
 Os primeiros a ser analisados são os 100% acções. Nestes últimos anos têm vindo a aumentar a quantidade de PPRs que têm uma alocação significativa a acções, incluindo os visados nesta análise, que têm uma alocação 100% acções (na realidade é muitas vezes entre 95 a 99%) devido ao cash que normalmente também detêm para fazer face a resgates e/ou gestão do PPR (anmdar sempre a comprar e a vender acções também tem custos desnecessários).
@@ -52,5 +60,18 @@ Ou seja, mesmo apresentando o Tendências Globais um retorno maior do que o IWDA
 
 Tenho a dizer contudo que a performance mais recente destes dois PPRs é boa, embora o período em análise seja curto. Gostaria de ver pelo menos um ciclo completo (subida e descida) antes de me sentir confortável com a boa performance dos mesmos, aliás porque com um período maior um deles (Save and Grow) tem uma performance muito abaixo do IWDA, embora nesta recente subida apresente uma performance que não é má.
 
-Acompanhemos e o futuro nos dirá se estes dois PPRs conseguem manter a boa performance recente. Uma vez que o investimento em PPRs normalmente é para longo prazo, 2.3 anos é insuficiente para formarmos uma opinião na minha opinião.
+Acompanhemos e o futuro nos dirá se estes dois PPRs conseguem manter a boa performance recente. Uma vez que o investimento em PPRs normalmente é para longo prazo penso que 2.3 anos é insuficiente para formarmos uma opinião.
 
+------------------------------------------------------------------------------------------------------------
+
+Artigos mais recentes escritos por mim:
+
+Diversificação e correlação entre fundos - Parte 2 (Artigos Future Proof)
+Diversificação e correlação entre fundos
+Efeito do corte de Taxas de Juros (FED) e o mercado como máquina de expectativas
+Sobre o uso de ETF obrigacionistas para gestão de liquidez (update de 1 ano)
+Boa leituras e continuação de excelentes negócios
+
+https://www.reddit.com/r/literaciafinanceira/comments/1gd8yfq/diversifica%C3%A7%C3%A3o_e_correla%C3%A7%C3%A3o_entre_fundos_parte_3/
+
+Este é o post 005 e qualquer código e imagens criadas e usadas no post pode ser encontrado aqui no respectivo repositório no github: https://github.com/LuisSousaSilva/artigos/tree/main

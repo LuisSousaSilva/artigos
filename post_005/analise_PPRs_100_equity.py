@@ -95,7 +95,7 @@ start = data.index[0].strftime('%Y-%m-%d')
 end = data.index[-1].strftime('%Y-%m-%d')
 
 dsf.ichart(data, title=f"Comparação entre PPRs e IWDA entre {start} e {end}",
- yTitle='Valorização por cada 100 €uros investidos', yticksuffix='€')
+ yTitle='Valorização por cada 100 €uros investidos', yticksuffix='€', image='fp')
 
 # %%
 dsf.compute_performance_table(data)
@@ -115,7 +115,7 @@ start = data.index[0].strftime('%Y-%m-%d')
 end = data.index[-1].strftime('%Y-%m-%d')
 
 dsf.ichart(data, title=f"Comparação entre PPRs e IWDA entre {start} e {end}",
- yTitle='Valorização por cada 100 €uros investidos', yticksuffix='€')
+ yTitle='Valorização por cada 100 €uros investidos', yticksuffix='€', image='fp')
 
 # %%
 dsf.compute_performance_table(data)
@@ -133,7 +133,7 @@ start = data.index[0].strftime('%Y-%m-%d')
 end = data.index[-1].strftime('%Y-%m-%d')
 
 dsf.ichart(data, title=f"Comparação entre PPRs e IWDA entre {start} e {end}",
- yTitle='Valorização por cada 100 €uros investidos', yticksuffix='€')
+ yTitle='Valorização por cada 100 €uros investidos', yticksuffix='€', image='fp')
 
 # %%
 dsf.compute_performance_table(data)
