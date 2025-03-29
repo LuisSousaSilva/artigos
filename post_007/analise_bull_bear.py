@@ -43,7 +43,7 @@ covid_value = 8  # Arrow pointing to 15% for the COVID crisis
 # Create the chart
 fig = dsf.ichart(spy_ret * 100, image='fp', yticksuffix='%',
                   yTitle='Em percentagem',
-                  title= "Retornos diários do Reversed SPY")
+                  title= "Retornos diários do SPY")
 
 # Add annotation for .com burst
 fig.add_annotation(
